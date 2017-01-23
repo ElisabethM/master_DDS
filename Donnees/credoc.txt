@@ -1,0 +1,4 @@
+V2	Reste au foyer	Trav. à mis-temps	Trav à pl. temps
+ 2 conj. tr egalement  	0,122719141	0,674103512	0,947118582
+trav.mari+absor	0,133179608	0,910848049	0,491622644
+seul le mari trav  	0,653944144	0,781893362	0,241424313
